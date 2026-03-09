@@ -51,7 +51,6 @@ A small practice Todo application built with React and Vite. It's a lightweight 
 ## Notes
 
 - This is a small practice repo; feel free to extend it (add persistence, tests, or state management libraries).
-- If you want me to also add a `.gitignore` or a GitHub Actions workflow for CI, say so and I can add them.
 
 ## License
 
